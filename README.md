@@ -1,1 +1,1 @@
-echo "# demo" >> README.md
+ demo
